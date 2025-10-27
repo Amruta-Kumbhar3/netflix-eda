@@ -67,7 +67,7 @@ python Netflix.py
 
 📸 **Example Visualizations**
 
-Movie vs TV Show distribution (Pie Chart) ["C:\Users\Amruta\Desktop\Netfkix_EDA\Netflix\screenshots\Figure_2.png"]
+Movie vs TV Show distribution (Pie Chart) "C:\Users\Amruta\Desktop\Netfkix_EDA\Netflix\screenshots\Figure_2.png"
 
 Genre WordCloud
 
