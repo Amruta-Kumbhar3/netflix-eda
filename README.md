@@ -75,8 +75,6 @@ Genre WordCloud ![Genre WordCloud](https://raw.githubusercontent.com/Amruta-Kumb
 
 Top 10 Countries Producing Netflix Content (Bar Chart) ![Top 10 Countries Producing Netflix Content (Bar Chart)](https://raw.githubusercontent.com/Amruta-Kumbhar3/netflix-eda/main/screenshots/Figure_4.png)
 
-Year-wise Content Growth (Line Chart) ![Year-wise Content Growth (Line Chart)](https://raw.githubusercontent.com/Amruta-Kumbhar3/netflix-eda/main/screenshots/Figure_5.png)
-
 🌱 **First Project Note**
 
 This is one of my early Python data analysis projects, where I explored real-world data and practiced data cleaning, visualization, and insight extraction.
