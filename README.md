@@ -70,7 +70,8 @@ python Netflix.py
 Movie vs TV Show distribution (Pie Chart) ![Movie vs TV Show distribution](https://raw.githubusercontent.com/Amruta-Kumbhar3/netflix-eda/main/screenshots/Figure_2.png)
 
 
-Genre WordCloud
+Genre WordCloud ![Genre WordCloud](https://raw.githubusercontent.com/Amruta-Kumbhar3/netflix-eda/main/screenshots/Figure_3.png)
+
 
 Top 10 Countries Producing Netflix Content (Bar Chart)
 
