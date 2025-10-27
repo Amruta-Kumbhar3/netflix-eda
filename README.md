@@ -1,0 +1,89 @@
+🎬 Netflix Exploratory Data Analysis (EDA)
+
+An exploratory data analysis project on the Netflix Movies and TV Shows Dataset.
+This project uncovers insights into Netflix’s content — including genre trends, production countries, release patterns, and popular actors/directors — using Python data analysis and visualization techniques.
+
+📊 Project Overview
+
+-The main goals of this EDA project were:
+
+-To understand how Netflix content is distributed by type, genre, and release year
+
+-To analyze country-wise content trends
+
+-To identify top actors and directors
+
+-To visualize the overall content growth over time
+
+🧰 Tech Stack
+Category	Tools Used
+Programming	Python
+Data Analysis	pandas, numpy
+Visualization	matplotlib, wordcloud
+Environment	Jupyter Notebook / VS Code
+
+🚀 Features & Analysis
+
+✅ Handling missing values in the dataset
+
+📈 Distribution of Movies vs TV Shows
+
+🌎 Top countries producing Netflix content
+
+🎭 WordCloud visualization of genres
+
+🎬 Most frequent actors and directors
+
+🕒 Year-wise content growth trend
+
+🗂️ Dataset Information
+
+Dataset used: Netflix Movies and TV Shows
+
+File: netflix_titles.csv
+
+Columns include:
+
+type, title, director, cast, country, release_year, rating, duration, listed_in, and description.
+
+⚠️ The dataset file is ignored in this repository (.gitignore) due to size and licensing.
+Please download it separately from Kaggle and place it in your project folder.
+
+🧮 How to Run Locally
+# Clone the repository
+git clone https://github.com/Amruta-Kumbhar3/netflix-eda.git
+
+# Move into the project folder
+cd netflix-eda
+
+# Create virtual environment
+python -m venv venv
+venv\Scripts\activate   # (on Windows)
+
+# Install dependencies
+pip install pandas matplotlib seaborn wordcloud
+
+# Run the Python file
+python Netflix.py
+
+📸 Example Visualizations
+
+Movie vs TV Show distribution (Pie Chart)
+
+Genre WordCloud
+
+Top 10 Countries Producing Netflix Content (Bar Chart)
+
+Year-wise Content Growth (Line Chart)
+
+🌱 First Project Note
+
+This is one of my early Python data analysis projects, where I explored real-world data and practiced data cleaning, visualization, and insight extraction.
+
+Through this, I learned:
+
+How to handle missing values in large datasets
+
+How to visualize data effectively with Matplotlib and WordCloud
+
+How to interpret trends and tell stories from data
