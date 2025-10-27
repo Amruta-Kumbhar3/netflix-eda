@@ -1,13 +1,12 @@
-🎬 Netflix Exploratory Data Analysis (EDA)
+🎬 **Netflix Exploratory Data Analysis (EDA)**
 
-An exploratory data analysis project on the Netflix Movies and TV Shows Dataset.
-This project uncovers insights into Netflix’s content — including genre trends, production countries, release patterns, and popular actors/directors — using Python data analysis and visualization techniques.
+A Python-based data analysis project that explores Netflix Movies and TV Shows to uncover trends in genres, production countries, and content growth using pandas, matplotlib, and WordCloud.
 
-📊 Project Overview
+📊 **Project Overview**
 
--The main goals of this EDA project were:
+##The main goals of this EDA project were:
 
--To understand how Netflix content is distributed by type, genre, and release year
+##To understand how Netflix content is distributed by type, genre, and release year
 
 -To analyze country-wise content trends
 
@@ -15,14 +14,14 @@ This project uncovers insights into Netflix’s content — including genre tren
 
 -To visualize the overall content growth over time
 
-🧰 Tech Stack
+🧰 **Tech Stack**
 Category	Tools Used
 Programming	Python
 Data Analysis	pandas, numpy
 Visualization	matplotlib, wordcloud
 Environment	Jupyter Notebook / VS Code
 
-🚀 Features & Analysis
+🚀 **Features & Analysis**
 
 ✅ Handling missing values in the dataset
 
@@ -36,9 +35,9 @@ Environment	Jupyter Notebook / VS Code
 
 🕒 Year-wise content growth trend
 
-🗂️ Dataset Information
+🗂️ **Dataset Information**
 
-Dataset used: Netflix Movies and TV Shows
+Dataset used: [Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 File: netflix_titles.csv
 
@@ -66,7 +65,7 @@ pip install pandas matplotlib seaborn wordcloud
 # Run the Python file
 python Netflix.py
 
-📸 Example Visualizations
+📸 **Example Visualizations**
 
 Movie vs TV Show distribution (Pie Chart)
 
@@ -76,7 +75,7 @@ Top 10 Countries Producing Netflix Content (Bar Chart)
 
 Year-wise Content Growth (Line Chart)
 
-🌱 First Project Note
+🌱 **First Project Note**
 
 This is one of my early Python data analysis projects, where I explored real-world data and practiced data cleaning, visualization, and insight extraction.
 
